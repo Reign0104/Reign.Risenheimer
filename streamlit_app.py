@@ -4,8 +4,8 @@ st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
 # ---- HEADER SECTION ----
 with st.container():
  st.subheader("Hi I am Reign Risenheimer C. Egnalig")
- st.title("A Students from Surigao Del Norte State University")
- st.write("I am passionate to learn from this amazing school")
+ st.title("A Student from Surigao Del Norte State University")
+ st.write("I am passionate to learn from this magnificent school")
 # ---- WHAT I DO ----
 with st.container():
   st.write("---")
