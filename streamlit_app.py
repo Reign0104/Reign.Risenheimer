@@ -11,7 +11,7 @@ def load_lottieurl(url):
     return None
  return r.json()
 # ---- LOAD ASSETS ----
-lottie_coding = load_lottieurl("https://app.lottiefiles.com/animation/99dd2dce-f53d-43c4-9bca-ce4f02dfcbee")
+lottie_coding = load_lottieurl("https://lottie.host/be27a0af-43c7-46c7-ac5b-633ef871d138/2exMFxZLGG.json"):
 # ---- HEADER SECTION ----
 with st.container():
  st.subheader("Hi I am Reign Risenheimer C. Egnalig")
@@ -38,4 +38,3 @@ with st.container():
     st.write("[My Facebook Account >](https://www.facebook.com/Reignexb.Egnalig/")
   with right_column:
      st.lottie(lottie_coding, height=300, key="coding")
-
