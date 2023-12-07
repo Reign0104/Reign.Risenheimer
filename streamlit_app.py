@@ -11,7 +11,7 @@ def load_lottieurl(url):
     return None
  return r.json()
 # ---- LOAD ASSETS ----
-lottie_coding = load_lottieurl("https://lottie.host/be27a0af-43c7-46c7-ac5b-633ef871d138/2exMFxZLGG.json"):
+lottie_coding = load_lottieurl("https://lottie.host/bd01473c-15c2-499e-9353-bc92f255b631/RIuEqqM0xr.json"):
 # ---- HEADER SECTION ----
 with st.container():
  st.subheader("Hi I am Reign Risenheimer C. Egnalig")
